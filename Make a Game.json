@@ -250,7 +250,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 5.761096621236669,
+        "zoomFactor": 0.3111974942445213,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -258,12 +258,13 @@
       "instances": [
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 316,
           "layer": "",
           "name": "FemaleCharacter10",
           "persistentUuid": "5e7e3e85-9ac5-483e-bbb5-857af4c4a87a",
-          "width": 0,
+          "width": 241,
           "x": 1455,
           "y": 362,
           "zOrder": 1,
